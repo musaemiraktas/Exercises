@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636638211 source:c:\users\emir\desktop\dersler\programlama 1\armstrong_sayilari\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

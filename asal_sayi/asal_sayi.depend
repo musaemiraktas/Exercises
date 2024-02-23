@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637154105 source:c:\users\emir\desktop\dersler\programlama 1\asal_sayi\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648489488 source:c:\users\emir\desktop\dersler\programlama 2\agno_hesap_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
